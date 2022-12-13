@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Listado de Pacientes</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+</head>
+<body style="background-image: url('/images/paciente.jpg'); background-size: cover;">
+<nav class="navbar navbar-expand-lg bg-light">
+    <div class="container-fluid">
+        <img src="/images/logo.png" style="width: auto; height: auto; max-height: 40px;">
+        <a class="navbar-brand" href="/">Clinica Muelitas</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="/">Home</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                       aria-expanded="false">
+                        Gestión Odontologos
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="/post_odontologo.html">Registrar</a></li>
+                        <li><a class="dropdown-item" href="/get_odontologo.html">Listar</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                       aria-expanded="false">
+                        Gestión Pacientes
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="/post_paciente.html">Registrar</a></li>
+                        <li><a class="dropdown-item" href="/get_paciente.html">Listar</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                       aria-expanded="false">
+                        Gestión Turnos
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="/post_turno.html">Registrar</a></li>
+                        <li><a class="dropdown-item" href="/get_turno.html">Listar</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="container" style="background-color: white";>
+    <div id="div_paciente_table">
+        <h1>Pacientes</h1>
+        <div class="row col-md-14 table-responsive">
+            <table id="pacienteTable" class="table table-striped">
+                <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Nombre</th>
+                    <th>Apellido</th>
+                    <th>DNI</th>
+                    <th>Fecha de Ingreso</th>
+                    <th>Email</th>
+                    <th>Domicilio Id</th>
+                    <th>Calle</th>
+                    <th>Numero</th>
+                    <th>Localidad</th>
+                    <th>Provincia</th>
+                    <th>Actualizar</th>
+                    <th>Eliminar</th>
+                </tr>
+                </thead>
+                <tbody id="pacienteTableBody">
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-14" style="display: none;
+											background-color:#e6fffa; padding:10px; border-radius:3px"
+             id="div_paciente_updating">
+            <form id="update_paciente_form">
+                <div class="form-group">
+                    <label>Id:</label>
+                    <input type="text" class="form-control" id="paciente_id" readonly>
+                </div>
+                <div class="form-group">
+                    <label>Nombre:</label>
+                    <input type="text" class="form-control" placeholder="Ingrese el nombre" id="nombre">
+                </div>
+                <div class="form-group">
+                    <label>Apellido:</label>
+                    <input type="text" class="form-control" placeholder="Ingrese el apellido" id="apellido">
+                </div>
+                <div class="form-group">
+                    <label>Dni:</label>
+                    <input type="text" class="form-control" placeholder="Ingrese el DNI" id="dni">
+                </div>
+                <div class="form-group">
+                    <label>Fecha Ingreso:</label>
+                    <input type="date" class="form-control" placeholder="Ingrese la fecha de ingreso" id="fechaIngreso">
+                </div>
+                <div class="form-group">
+                    <label>Email:</label>
+                    <input type="text" class="form-control" placeholder="Ingrese el email" id="email">
+                </div>
+                <div class="form-group">
+                    <label>Domicilio:</label>
+                    <input type="text" class="form-control" id="domicilio_id" readonly>
+                </div>
+                <div class="form-group">
+                    <label>Calle:</label>
+                    <input type="text" class="form-control"
+                           placeholder="Ingrese la calle del domicilio" id="calle">
+                </div>
+                <div class="form-group">
+                    <label>Número:</label>
+                    <input type="text" class="form-control" placeholder="Ingrese el número del domicilio" id="numero">
+                </div>
+                <div class="form-group">
+                    <label>Localidad:</label>
+                    <input type="text" class="form-control" placeholder="Ingrese la localidad del domicilio"
+                           id="localidad">
+                </div>
+                <div class="form-group">
+                    <label>Provincia:</label>
+                    <input type="text" class="form-control" placeholder="Ingrese la provincia del domicilio"
+                           id="provincia">
+                </div>
+
+                <button type="submit" class="btn btn-primary">Modificar</button>
+            </form>
+            <div id="response" style="display:none; margin:10px">
+            </div>
+        </div>
+    </div>
+    <hr>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+        crossorigin="anonymous"></script>
+<script type="text/javascript" src="/js/paciente_js/get_paciente.js"></script>
+<script type="text/javascript" src="/js/paciente_js/update_paciente.js"></script>
+<script type="text/javascript" src="/js/paciente_js/delete_paciente.js"></script>
+</body>
+</html>

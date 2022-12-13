@@ -1,0 +1,1189 @@
+[2022-12-07 15:22:20] [ INFO ] [PacienteDAOH2:116] Iniciando la busqueda del paciente con email=pruebas@gmail.com
+[2022-12-07 15:22:22] [ INFO ] [PacienteDAOH2:116] Iniciando la busqueda del paciente con email=pruebas@gmail.com
+[2022-12-07 15:22:37] [ INFO ] [PacienteDAOH2:116] Iniciando la busqueda del paciente con email=prueba@gmail.com
+[2022-12-07 15:22:37] [ INFO ] [DomicilioDAOH2:59] Iniciando la busqueda de un domicilio con id=1
+[2022-12-07 15:23:07] [ INFO ] [PacienteDAOH2:116] Iniciando la busqueda del paciente con email=prueba@gmail.com
+[2022-12-07 15:23:07] [ INFO ] [DomicilioDAOH2:59] Iniciando la busqueda de un domicilio con id=1
+[2022-12-07 15:25:39] [ INFO ] [PacienteDAOH2:116] Iniciando la busqueda del paciente con email=prueba@gmail.com
+[2022-12-07 15:25:39] [ INFO ] [DomicilioDAOH2:59] Iniciando la busqueda de un domicilio con id=1
+[2022-12-07 15:25:40] [ INFO ] [PacienteDAOH2:116] Iniciando la busqueda del paciente con email=prueba@gmail.com
+[2022-12-07 15:25:40] [ INFO ] [DomicilioDAOH2:59] Iniciando la busqueda de un domicilio con id=1
+[2022-12-07 15:41:58] [ INFO ] [PacienteDAOH2:116] Iniciando la busqueda del paciente con email=prueba@gmail.com
+[2022-12-07 15:41:58] [ INFO ] [DomicilioDAOH2:59] Iniciando la busqueda de un domicilio con id=1
+[2022-12-07 15:44:25] [ INFO ] [PacienteDAOH2:117] Iniciando la busqueda del paciente con email=prueba@gmail.com
+[2022-12-07 15:44:25] [ INFO ] [DomicilioDAOH2:59] Iniciando la busqueda de un domicilio con id=1
+[2022-12-07 15:44:26] [ INFO ] [PacienteDAOH2:117] Iniciando la busqueda del paciente con email=prueba@gmail.com
+[2022-12-07 15:44:26] [ INFO ] [DomicilioDAOH2:59] Iniciando la busqueda de un domicilio con id=1
+[2022-12-07 15:46:13] [ INFO ] [PacienteDAOH2:117] Iniciando la busqueda del paciente con email=prueba@gmail.com
+[2022-12-07 15:46:13] [ INFO ] [DomicilioDAOH2:59] Iniciando la busqueda de un domicilio con id=1
+[2022-12-07 17:02:51] [ INFO ] [OdontologoDAOH2:62] Iniciando la busqueda del odontologo con id=1
+[2022-12-07 17:39:23] [ INFO ] [OdontologoDAOH2:64] Iniciando el proceso de busqueda del odontologo con id=1
+[2022-12-07 17:40:40] [ INFO ] [OdontologoDAOH2:64] Iniciando el proceso de busqueda del odontologo con id=1
+[2022-12-07 17:43:27] [ INFO ] [OdontologoDAOH2:64] Iniciando el proceso de busqueda del odontologo con id=1
+[2022-12-07 17:43:40] [ INFO ] [OdontologoDAOH2:64] Iniciando el proceso de busqueda del odontologo con id=1
+[2022-12-07 17:43:45] [ INFO ] [OdontologoDAOH2:64] Iniciando el proceso de busqueda del odontologo con id=1
+[2022-12-07 17:47:05] [ INFO ] [OdontologoDAOH2:64] Iniciando el proceso de busqueda del odontologo con id=1
+[2022-12-07 17:47:06] [ INFO ] [OdontologoDAOH2:64] Iniciando el proceso de busqueda del odontologo con id=1
+[2022-12-07 17:47:12] [ INFO ] [OdontologoDAOH2:64] Iniciando el proceso de busqueda del odontologo con id=1
+[2022-12-07 18:04:05] [ INFO ] [OdontologoDAOH2:62] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-07 21:35:18] [ INFO ] [OdontologoDAOH2:149] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-07 21:53:10] [ INFO ] [OdontologoDAOH2:149] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-07 21:54:00] [ INFO ] [OdontologoDAOH2:63] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-07 21:55:35] [ INFO ] [OdontologoDAOH2:63] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-07 21:57:31] [ INFO ] [OdontologoDAOH2:63] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-07 21:58:16] [ INFO ] [OdontologoDAOH2:63] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-07 21:58:17] [ INFO ] [OdontologoDAOH2:63] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-07 21:58:19] [ INFO ] [OdontologoDAOH2:63] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-07 21:58:42] [ INFO ] [OdontologoDAOH2:63] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-08 00:10:52] [ INFO ] [PacienteDAOH2:21] Iniciando el proceso de guardar un paciente
+[2022-12-08 00:10:52] [ INFO ] [DomicilioDAOH2:25] Inicio de una operación de guardar de domicilio
+[2022-12-08 00:10:52] [ INFO ] [PacienteDAOH2:40] rs5: org.h2.result.LocalResult@117ec7cf columns: 1 rows: 1 pos: 0
+[2022-12-08 00:10:52] [ INFO ] [PacienteDAOH2:43] Se registraron los datos del nuevo paciente correctamente
+[2022-12-08 00:15:47] [ INFO ] [PacienteDAOH2:63] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-08 00:15:47] [ INFO ] [DomicilioDAOH2:59] Iniciando la busqueda de un domicilio con id=2
+[2022-12-08 00:15:47] [ INFO ] [PacienteDAOH2:97] Iniciando el proceso de actualizar al paciente con id = 2
+[2022-12-08 00:15:47] [ INFO ] [DomicilioDAOH2:89] Iniciando la actualización de un domicilio
+[2022-12-09 17:00:14] [ INFO ] [PacienteDAOH2:21] Iniciando el proceso de guardar un paciente
+[2022-12-09 17:00:14] [ INFO ] [DomicilioDAOH2:25] Inicio de una operación de guardar de domicilio
+[2022-12-09 17:00:14] [ INFO ] [PacienteDAOH2:40] rs5: org.h2.result.LocalResult@49c801ed columns: 1 rows: 1 pos: 0
+[2022-12-09 17:00:15] [ INFO ] [PacienteDAOH2:43] Se registraron los datos del nuevo paciente correctamente
+[2022-12-09 17:04:46] [ INFO ] [OdontologoDAOH2:23] Iniciando el proceso de guardar un odontologo
+[2022-12-09 17:04:46] [ ERROR] [OdontologoDAOH2:40] Error: Error de Sintaxis en sentencia SQL "INSERT INTO ODONTOLOGOS (MATRICULA,NOMBRE, APELLIDO [*]VALUES (?,?,?)"; se esperaba ",, )"
+Syntax error in SQL statement "INSERT INTO ODONTOLOGOS (MATRICULA,NOMBRE, APELLIDO [*]VALUES (?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA,NOMBRE, APELLIDO VALUES (?,?,?) [42001-214]
+[2022-12-09 17:06:17] [ INFO ] [PacienteDAOH2:21] Iniciando el proceso de guardar un paciente
+[2022-12-09 17:06:17] [ INFO ] [DomicilioDAOH2:25] Inicio de una operación de guardar de domicilio
+[2022-12-09 17:06:17] [ INFO ] [PacienteDAOH2:40] rs5: org.h2.result.LocalResult@14ba01db columns: 1 rows: 1 pos: 0
+[2022-12-09 17:06:17] [ INFO ] [PacienteDAOH2:43] Se registraron los datos del nuevo paciente correctamente
+[2022-12-09 17:06:21] [ INFO ] [OdontologoDAOH2:23] Iniciando el proceso de guardar un odontologo
+[2022-12-09 17:06:21] [ ERROR] [OdontologoDAOH2:40] Error: Error de Sintaxis en sentencia SQL "INSERT INTO ODONTOLOGOS (MATRICULA,NOMBRE, APELLIDO [*]VALUES (?,?,?)"; se esperaba ",, )"
+Syntax error in SQL statement "INSERT INTO ODONTOLOGOS (MATRICULA,NOMBRE, APELLIDO [*]VALUES (?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA,NOMBRE, APELLIDO VALUES (?,?,?) [42001-214]
+[2022-12-09 17:08:51] [ INFO ] [PacienteDAOH2:21] Iniciando el proceso de guardar un paciente
+[2022-12-09 17:08:51] [ INFO ] [DomicilioDAOH2:25] Inicio de una operación de guardar de domicilio
+[2022-12-09 17:08:51] [ INFO ] [PacienteDAOH2:40] rs7: org.h2.result.LocalResult@7828595 columns: 1 rows: 1 pos: 0
+[2022-12-09 17:08:51] [ INFO ] [PacienteDAOH2:43] Se registraron los datos del nuevo paciente correctamente
+[2022-12-09 17:08:57] [ INFO ] [OdontologoDAOH2:23] Iniciando el proceso de guardar un odontologo
+[2022-12-09 17:08:57] [ ERROR] [OdontologoDAOH2:40] Error: Error de Sintaxis en sentencia SQL "INSERT INTO ODONTOLOGOS (MATRICULA,NOMBRE, APELLIDO [*]VALUES (?,?,?)"; se esperaba ",, )"
+Syntax error in SQL statement "INSERT INTO ODONTOLOGOS (MATRICULA,NOMBRE, APELLIDO [*]VALUES (?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA,NOMBRE, APELLIDO VALUES (?,?,?) [42001-214]
+[2022-12-09 17:16:47] [ INFO ] [OdontologoDAOH2:23] Iniciando el proceso de guardar un odontologo
+[2022-12-09 17:16:47] [ ERROR] [OdontologoDAOH2:40] Error: Error de Sintaxis en sentencia SQL "INSERT INTO ODONTOLOGOS (MATRICULA,NOMBRE, APELLIDO [*]VALUES (?,?,?)"; se esperaba ",, )"
+Syntax error in SQL statement "INSERT INTO ODONTOLOGOS (MATRICULA,NOMBRE, APELLIDO [*]VALUES (?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA,NOMBRE, APELLIDO VALUES (?,?,?) [42001-214]
+[2022-12-09 17:16:56] [ INFO ] [PacienteDAOH2:21] Iniciando el proceso de guardar un paciente
+[2022-12-09 17:16:56] [ INFO ] [DomicilioDAOH2:25] Inicio de una operación de guardar de domicilio
+[2022-12-09 17:16:56] [ INFO ] [PacienteDAOH2:40] rs5: org.h2.result.LocalResult@6d524f36 columns: 1 rows: 1 pos: 0
+[2022-12-09 17:16:56] [ INFO ] [PacienteDAOH2:43] Se registraron los datos del nuevo paciente correctamente
+[2022-12-09 17:41:04] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-09 17:41:33] [ INFO ] [PacienteDAOH2:63] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-09 17:41:33] [ INFO ] [DomicilioDAOH2:59] Iniciando la busqueda de un domicilio con id=1
+[2022-12-09 17:41:33] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 04:27:33] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 04:30:13] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 05:02:14] [ INFO ] [OdontologoDAOH2:23] Iniciando el proceso de guardar un odontologo
+[2022-12-10 05:02:14] [ ERROR] [OdontologoDAOH2:40] Error: Error de Sintaxis en sentencia SQL "INSERT INTO ODONTOLOGOS (MATRICULA,NOMBRE, APELLIDO [*]VALUES (?,?,?)"; se esperaba ",, )"
+Syntax error in SQL statement "INSERT INTO ODONTOLOGOS (MATRICULA,NOMBRE, APELLIDO [*]VALUES (?,?,?)"; expected ",, )"; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA,NOMBRE, APELLIDO VALUES (?,?,?) [42001-214]
+[2022-12-10 05:03:53] [ INFO ] [OdontologoDAOH2:23] Iniciando el proceso de guardar un odontologo
+[2022-12-10 05:06:19] [ INFO ] [OdontologoDAOH2:23] Iniciando el proceso de guardar un odontologo
+[2022-12-10 05:08:05] [ INFO ] [OdontologoDAOH2:23] Iniciando el proceso de guardar un odontologo
+[2022-12-10 05:08:07] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 05:11:23] [ INFO ] [OdontologoDAOH2:23] Iniciando el proceso de guardar un odontologo
+[2022-12-10 05:11:25] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 05:50:14] [ INFO ] [OdontologoDAOH2:23] Iniciando el proceso de guardar un odontologo
+[2022-12-10 05:50:16] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 05:53:31] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 05:53:58] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 05:54:11] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 05:54:13] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 05:54:16] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 05:54:33] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 05:55:20] [ INFO ] [OdontologoDAOH2:23] Iniciando el proceso de guardar un odontologo
+[2022-12-10 05:55:22] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 05:56:53] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 05:57:04] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 05:58:13] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 05:58:14] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 05:59:08] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 05:59:09] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 05:59:12] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:00:23] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:00:43] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:00:46] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:00:48] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:00:48] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 1
+[2022-12-10 06:00:48] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:00:48] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:00:49] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:00:50] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:00:50] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 1
+[2022-12-10 06:00:50] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:00:50] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:00:51] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:00:55] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:00:55] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 1
+[2022-12-10 06:00:55] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:00:55] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:00:57] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:00:57] [ WARN ] [OdontologoDAOH2:118] Iniciando el proceso de eliminación del odontologo con id=1
+[2022-12-10 06:01:01] [ INFO ] [OdontologoDAOH2:23] Iniciando el proceso de guardar un odontologo
+[2022-12-10 06:01:03] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:01:04] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:01:07] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:01:07] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 2
+[2022-12-10 06:01:07] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:01:07] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:01:10] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:01:14] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:01:14] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 2
+[2022-12-10 06:01:14] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:01:14] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:01:15] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:01:18] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:01:18] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 2
+[2022-12-10 06:01:18] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:01:18] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:01:19] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:03:38] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:03:40] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:03:42] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:03:42] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 1
+[2022-12-10 06:03:42] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:03:42] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:03:43] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:06:10] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:06:34] [ INFO ] [OdontologoDAOH2:23] Iniciando el proceso de guardar un odontologo
+[2022-12-10 06:06:35] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:06:36] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:06:37] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:06:40] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:06:40] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 2
+[2022-12-10 06:06:40] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:06:40] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:06:40] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:06:42] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:06:44] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:06:44] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 1
+[2022-12-10 06:06:44] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:06:44] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:06:45] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:06:52] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:06:53] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:06:54] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:06:56] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:06:56] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 2
+[2022-12-10 06:06:56] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:06:56] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:06:57] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:06:58] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:07:00] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:07:00] [ WARN ] [OdontologoDAOH2:118] Iniciando el proceso de eliminación del odontologo con id=2
+[2022-12-10 06:07:02] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:07:02] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:07:04] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:07:04] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 1
+[2022-12-10 06:07:04] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:07:04] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:07:05] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:07:07] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:07:07] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 1
+[2022-12-10 06:07:07] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:07:07] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:09:39] [ INFO ] [OdontologoDAOH2:23] Iniciando el proceso de guardar un odontologo
+[2022-12-10 06:09:40] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:09:43] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:09:50] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:09:50] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 2
+[2022-12-10 06:09:50] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:09:50] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:09:51] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:09:55] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:09:55] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 2
+[2022-12-10 06:09:55] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:09:55] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:10:58] [ INFO ] [OdontologoDAOH2:23] Iniciando el proceso de guardar un odontologo
+[2022-12-10 06:11:00] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:11:01] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:11:02] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:11:03] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 1
+[2022-12-10 06:11:03] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:11:03] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:11:04] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:11:06] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:11:06] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 1
+[2022-12-10 06:11:06] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:11:06] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:11:36] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:11:37] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:12:02] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:12:04] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:12:06] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:12:06] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 1
+[2022-12-10 06:12:06] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:12:06] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:12:07] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:12:08] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:12:08] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 1
+[2022-12-10 06:12:08] [ ERROR] [OdontologoDAOH2:102] Error: La columna "MATRICULA" no permite valores nulos (NULL)
+NULL not allowed for column "MATRICULA"; SQL statement:
+UPDATE ODONTOLOGOS SET MATRICULA=?, NOMBRE=?, APELLIDO=? WHERE ID=? [23502-214]
+[2022-12-10 06:12:08] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:12:13] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:19:23] [ INFO ] [OdontologoDAOH2:23] Iniciando el proceso de guardar un odontologo
+[2022-12-10 06:19:24] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:19:25] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:19:26] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 06:19:26] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 1
+[2022-12-10 06:19:26] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:19:28] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:19:29] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:19:29] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 2
+[2022-12-10 06:19:30] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:19:32] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:19:35] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:19:35] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 2
+[2022-12-10 06:19:35] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:19:37] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:19:38] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-10 06:19:38] [ INFO ] [OdontologoDAOH2:90] Iniciando el proceso de actualizar al odontologo con id = 2
+[2022-12-10 06:19:38] [ INFO ] [OdontologoDAOH2:143] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-10 06:58:04] [ INFO ] [PacienteDAOH2:63] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-10 06:58:04] [ INFO ] [DomicilioDAOH2:59] Iniciando la busqueda de un domicilio con id=1
+[2022-12-10 06:58:04] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 07:00:54] [ INFO ] [PacienteDAOH2:63] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-10 07:00:54] [ INFO ] [DomicilioDAOH2:59] Iniciando la busqueda de un domicilio con id=1
+[2022-12-10 07:00:54] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 07:02:19] [ INFO ] [PacienteDAOH2:63] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-10 07:02:19] [ INFO ] [DomicilioDAOH2:59] Iniciando la busqueda de un domicilio con id=1
+[2022-12-10 07:02:19] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-10 07:03:09] [ INFO ] [PacienteDAOH2:63] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-10 07:03:09] [ INFO ] [DomicilioDAOH2:59] Iniciando la busqueda de un domicilio con id=1
+[2022-12-10 07:03:09] [ INFO ] [OdontologoDAOH2:58] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 11:52:27] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 11:52:29] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 11:52:31] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 11:52:33] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 11:52:33] [ INFO ] [OdontologoService:39] Iniciando el proceso de actualización del odontologo con id = 1
+[2022-12-11 11:52:34] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 11:52:35] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 11:52:35] [ WARN ] [OdontologoService:44] Iniciando el proceso de eliminación del odontologo con id = 1
+[2022-12-11 11:53:01] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 11:53:20] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 11:54:35] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 11:54:37] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 11:54:38] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 11:54:42] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 11:54:42] [ INFO ] [PacienteService:39] Iniciando el proceso de actualización del paciente con id = 1
+[2022-12-11 11:54:42] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 11:54:45] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 11:54:45] [ WARN ] [PacienteService:44] Iniciando el proceso de eliminación del paciente con id = 1
+[2022-12-11 12:01:30] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 12:01:44] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 12:01:57] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 12:02:09] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 12:02:14] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 12:02:14] [ INFO ] [PacienteService:39] Iniciando el proceso de actualización del paciente con id = 1
+[2022-12-11 12:02:14] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 12:02:46] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 12:02:46] [ WARN ] [PacienteService:44] Iniciando el proceso de eliminación del paciente con id = 1
+[2022-12-11 12:41:55] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 12:42:04] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 12:42:13] [ INFO ] [TurnoService:47] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 12:42:42] [ INFO ] [TurnoService:47] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 12:42:54] [ INFO ] [TurnoService:36] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 12:58:12] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 12:58:16] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 12:58:19] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 12:58:50] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 12:58:54] [ INFO ] [TurnoService:42] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 12:59:18] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 12:59:19] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 12:59:25] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 12:59:27] [ INFO ] [TurnoService:42] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 13:05:43] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 13:05:49] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 13:05:55] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 13:16:09] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 13:16:11] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 13:16:14] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 13:16:44] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 13:17:05] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 13:17:10] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 13:17:10] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 13:17:10] [ INFO ] [TurnoService:35] Iniciando el proceso de guardar un turno
+[2022-12-11 13:17:10] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 13:17:10] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 13:25:00] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 13:25:04] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 13:25:07] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 13:25:07] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 13:25:07] [ INFO ] [TurnoService:35] Iniciando el proceso de guardar un turno
+[2022-12-11 13:25:07] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 13:25:07] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 13:26:05] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 13:26:06] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 13:26:11] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 13:26:11] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 13:26:11] [ INFO ] [TurnoService:35] Iniciando el proceso de guardar un turno
+[2022-12-11 13:26:11] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 13:26:11] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 13:26:14] [ INFO ] [TurnoService:42] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 13:26:14] [ WARN ] [TurnoService:69] Iniciando el proceso de eliminación del turno con id = 1
+[2022-12-11 13:26:28] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 13:26:55] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 13:27:00] [ INFO ] [TurnoService:42] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 13:27:02] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 13:27:22] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 13:27:22] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 13:27:22] [ INFO ] [TurnoService:35] Iniciando el proceso de guardar un turno
+[2022-12-11 13:27:22] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 13:27:22] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 13:27:41] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 13:27:41] [ WARN ] [OdontologoService:44] Iniciando el proceso de eliminación del odontologo con id = 1
+[2022-12-11 13:58:07] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 13:58:11] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 13:58:22] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:00:30] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 14:00:31] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:00:33] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 14:00:34] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 14:00:34] [ INFO ] [OdontologoService:39] Iniciando el proceso de actualización del odontologo con id = 1
+[2022-12-11 14:00:34] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:00:36] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 14:00:38] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 14:00:38] [ INFO ] [OdontologoService:39] Iniciando el proceso de actualización del odontologo con id = 1
+[2022-12-11 14:00:38] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:00:40] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 14:00:40] [ WARN ] [OdontologoService:44] Iniciando el proceso de eliminación del odontologo con id = 1
+[2022-12-11 14:01:49] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 14:01:51] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:01:54] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 14:02:20] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 14:02:20] [ INFO ] [PacienteService:39] Iniciando el proceso de actualización del paciente con id = 1
+[2022-12-11 14:02:20] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:02:25] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 14:02:25] [ WARN ] [PacienteService:44] Iniciando el proceso de eliminación del paciente con id = 1
+[2022-12-11 14:18:10] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:18:30] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:19:18] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:19:34] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:20:15] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:20:16] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:20:34] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:39:04] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:50:49] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 14:50:50] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:50:51] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 14:50:56] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 14:50:56] [ INFO ] [OdontologoService:39] Iniciando el proceso de actualización del odontologo con id = 1
+[2022-12-11 14:50:56] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:50:57] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 14:50:58] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 14:50:58] [ INFO ] [OdontologoService:39] Iniciando el proceso de actualización del odontologo con id = 1
+[2022-12-11 14:50:58] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:50:59] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 14:50:59] [ WARN ] [OdontologoService:44] Iniciando el proceso de eliminación del odontologo con id = 1
+[2022-12-11 14:51:11] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 14:51:12] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:51:13] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 14:51:33] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 14:51:33] [ INFO ] [PacienteService:39] Iniciando el proceso de actualización del paciente con id = 1
+[2022-12-11 14:51:33] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:51:38] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 14:51:38] [ WARN ] [PacienteService:44] Iniciando el proceso de eliminación del paciente con id = 1
+[2022-12-11 14:54:04] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 14:54:05] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:54:19] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 14:54:20] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:54:28] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 14:54:28] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 14:54:28] [ INFO ] [TurnoService:35] Iniciando el proceso de guardar un turno
+[2022-12-11 14:54:28] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 14:54:28] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 14:54:30] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 14:54:34] [ INFO ] [TurnoService:42] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 14:54:43] [ INFO ] [TurnoService:42] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 14:54:43] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 14:54:43] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 14:54:43] [ INFO ] [TurnoService:63] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-11 14:54:43] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 14:54:43] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 14:54:43] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 14:54:44] [ INFO ] [TurnoService:42] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 14:54:46] [ INFO ] [TurnoService:42] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 14:54:46] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 14:54:46] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 14:54:46] [ INFO ] [TurnoService:63] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-11 14:54:46] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 14:54:46] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 14:54:46] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 14:54:58] [ INFO ] [TurnoService:42] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 14:54:58] [ WARN ] [TurnoService:69] Iniciando el proceso de eliminación del turno con id = 1
+[2022-12-11 14:55:04] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:55:05] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 14:55:07] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:55:10] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:55:12] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 14:55:14] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:56:00] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:56:03] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:56:07] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:56:13] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:56:15] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 14:56:18] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:56:22] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:56:30] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:56:34] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 14:56:36] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:56:38] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 14:56:51] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:58:03] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:58:09] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:58:11] [ INFO ] [TurnoService:53] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 14:58:16] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 14:58:18] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 14:58:21] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:29:45] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 16:29:46] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:29:47] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 16:29:49] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 16:29:49] [ INFO ] [OdontologoService:39] Iniciando el proceso de actualización del odontologo con id = 1
+[2022-12-11 16:29:49] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:29:51] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 16:29:51] [ WARN ] [OdontologoService:44] Iniciando el proceso de eliminación del odontologo con id = 1
+[2022-12-11 16:30:00] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 16:30:02] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 16:30:03] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 16:30:07] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 16:30:07] [ INFO ] [PacienteService:39] Iniciando el proceso de actualización del paciente con id = 1
+[2022-12-11 16:30:08] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 16:30:09] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 16:30:09] [ WARN ] [PacienteService:44] Iniciando el proceso de eliminación del paciente con id = 1
+[2022-12-11 16:30:24] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 16:30:24] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 16:30:25] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 16:30:30] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 16:30:39] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 16:30:42] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 16:30:48] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 16:30:48] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 16:30:49] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 16:30:58] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 16:30:58] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 16:30:59] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 16:31:02] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 16:31:04] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:31:08] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 16:31:14] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-11 16:31:14] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-11 16:31:14] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno
+[2022-12-11 16:31:14] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-11 16:31:14] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-11 16:31:16] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 16:31:17] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 16:31:22] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 16:31:22] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-11 16:31:22] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-11 16:31:22] [ INFO ] [TurnoService:61] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-11 16:31:22] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-11 16:31:22] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-11 16:31:22] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 16:31:24] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 16:31:26] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 16:31:26] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-11 16:31:26] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-11 16:31:26] [ INFO ] [TurnoService:61] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-11 16:31:26] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-11 16:31:26] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-11 16:31:26] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 16:31:27] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 16:31:27] [ WARN ] [TurnoService:67] Iniciando el proceso de eliminación del turno con id = 1
+[2022-12-11 16:33:24] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:33:29] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 16:33:30] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:36:18] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:36:22] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 16:36:23] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:36:26] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 16:36:28] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 16:36:29] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:37:47] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:37:50] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 16:37:52] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:40:49] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 16:40:51] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:41:05] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 16:41:07] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 16:41:15] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 16:41:15] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 16:41:15] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno
+[2022-12-11 16:41:15] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 16:41:15] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 16:41:17] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 16:41:21] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 16:41:21] [ WARN ] [TurnoService:67] Iniciando el proceso de eliminación del turno con id = 1
+[2022-12-11 16:41:23] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 16:41:25] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 16:41:25] [ WARN ] [PacienteService:44] Iniciando el proceso de eliminación del paciente con id = 1
+[2022-12-11 16:41:27] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:41:27] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 16:41:27] [ WARN ] [OdontologoService:44] Iniciando el proceso de eliminación del odontologo con id = 1
+[2022-12-11 16:41:31] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 16:41:42] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 16:41:43] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 16:41:45] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:41:51] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-11 16:41:51] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-11 16:41:51] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno
+[2022-12-11 16:41:51] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-11 16:41:51] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-11 16:41:53] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:41:54] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-11 16:41:54] [ WARN ] [OdontologoService:44] Iniciando el proceso de eliminación del odontologo con id = 2
+[2022-12-11 16:41:57] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 16:42:14] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:42:16] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-11 16:42:16] [ WARN ] [OdontologoService:44] Iniciando el proceso de eliminación del odontologo con id = 2
+[2022-12-11 16:42:18] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 16:42:20] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:42:33] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 16:42:34] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-11 16:42:34] [ WARN ] [PacienteService:44] Iniciando el proceso de eliminación del paciente con id = 2
+[2022-12-11 16:42:36] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 16:42:50] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 16:42:51] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 2
+[2022-12-11 16:42:51] [ WARN ] [TurnoService:67] Iniciando el proceso de eliminación del turno con id = 2
+[2022-12-11 16:42:53] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 16:42:55] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 16:42:55] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-11 16:42:55] [ WARN ] [PacienteService:44] Iniciando el proceso de eliminación del paciente con id = 2
+[2022-12-11 16:42:57] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 16:42:58] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 16:42:59] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-11 16:42:59] [ WARN ] [OdontologoService:44] Iniciando el proceso de eliminación del odontologo con id = 2
+[2022-12-11 16:43:00] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 17:17:30] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 17:17:34] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 17:24:03] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 17:24:04] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 17:24:06] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 17:31:02] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 17:31:13] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 17:31:23] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 17:31:26] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 17:31:35] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 17:31:41] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 17:31:47] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 17:31:48] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 17:32:15] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 17:32:17] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 17:36:31] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 17:38:56] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 17:39:04] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 17:39:35] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 17:47:40] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 17:47:50] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 17:49:17] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 17:49:40] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 17:49:44] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 17:49:51] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 17:49:57] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 17:49:58] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 17:50:02] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 17:50:08] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 17:50:13] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 17:50:13] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 17:50:13] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno
+[2022-12-11 17:50:13] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 17:50:13] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 17:50:14] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 17:50:18] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 17:50:23] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 17:50:23] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 17:50:23] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 17:50:23] [ INFO ] [TurnoService:61] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-11 17:50:23] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 17:50:23] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 17:50:23] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 17:50:25] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 17:50:27] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 17:50:27] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 17:50:27] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 17:50:27] [ INFO ] [TurnoService:61] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-11 17:50:27] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 17:50:27] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 17:50:27] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 17:50:28] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 17:50:28] [ WARN ] [TurnoService:67] Iniciando el proceso de eliminación del turno con id = 1
+[2022-12-11 17:59:06] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 17:59:07] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 17:59:10] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 17:59:16] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 17:59:21] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 17:59:21] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 17:59:21] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno
+[2022-12-11 17:59:21] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 17:59:21] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 17:59:23] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 17:59:28] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 2
+[2022-12-11 17:59:31] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 2
+[2022-12-11 17:59:31] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 17:59:31] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 17:59:31] [ INFO ] [TurnoService:61] Iniciando el proceso de actualización del turno con id = 2
+[2022-12-11 17:59:31] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 17:59:31] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 17:59:31] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 17:59:32] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 2
+[2022-12-11 17:59:32] [ WARN ] [TurnoService:67] Iniciando el proceso de eliminación del turno con id = 2
+[2022-12-11 17:59:44] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 17:59:45] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 17:59:45] [ WARN ] [PacienteService:44] Iniciando el proceso de eliminación del paciente con id = 1
+[2022-12-11 17:59:50] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 17:59:52] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 17:59:52] [ WARN ] [OdontologoService:44] Iniciando el proceso de eliminación del odontologo con id = 1
+[2022-12-11 18:32:04] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 18:32:04] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 18:32:04] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno
+[2022-12-11 18:32:04] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 18:32:04] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 18:32:33] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 18:32:33] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 18:32:33] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno
+[2022-12-11 18:32:33] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 18:32:33] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 18:34:04] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 18:34:30] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 18:34:30] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 18:34:30] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 18:34:30] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno
+[2022-12-11 18:34:30] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 18:34:30] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 18:37:22] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 18:37:22] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 18:37:22] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 18:37:22] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno
+[2022-12-11 18:37:22] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 18:37:22] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 18:38:42] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 18:39:47] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 18:39:47] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 18:39:47] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno
+[2022-12-11 18:39:47] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 18:39:47] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 18:40:03] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 18:40:03] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 18:40:03] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno
+[2022-12-11 18:40:03] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 18:40:03] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 18:40:03] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 18:41:46] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 18:41:46] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 18:41:46] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno
+[2022-12-11 18:41:46] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 18:41:46] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 18:41:46] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 18:41:46] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 18:48:52] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 18:48:52] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 18:48:52] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno
+[2022-12-11 18:48:52] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 18:48:52] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 18:48:52] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 18:48:52] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 18:48:52] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 18:48:52] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 18:48:52] [ INFO ] [TurnoService:61] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-11 18:48:52] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 18:48:52] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 18:48:52] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 18:49:32] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 18:49:32] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 18:49:32] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno
+[2022-12-11 18:49:32] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 18:49:32] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 18:49:32] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 18:49:32] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 18:49:33] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 18:49:33] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 18:49:33] [ INFO ] [TurnoService:61] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-11 18:49:33] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 18:49:33] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 18:49:33] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 18:50:15] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 18:50:15] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 18:50:15] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno
+[2022-12-11 18:50:15] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 18:50:15] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 18:50:15] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 18:50:15] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 18:50:15] [ INFO ] [TurnoService:61] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-11 18:50:15] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 18:50:15] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 18:50:15] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 18:51:18] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo
+[2022-12-11 18:51:18] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente
+[2022-12-11 18:51:18] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno
+[2022-12-11 18:51:18] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 18:51:18] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 18:51:18] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 18:51:18] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 18:51:18] [ INFO ] [TurnoService:61] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-11 18:51:18] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 18:51:18] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 18:51:18] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 18:51:18] [ WARN ] [TurnoService:67] Iniciando el proceso de eliminación del turno con id = 1
+[2022-12-11 18:51:18] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 19:33:52] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido Sanchez
+[2022-12-11 19:33:52] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido Herrera
+[2022-12-11 19:33:52] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno con fecha 2022-11-29
+[2022-12-11 19:33:52] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 19:33:52] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 19:33:52] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 19:33:52] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 19:33:52] [ INFO ] [TurnoService:61] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-11 19:33:52] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 19:33:52] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 19:33:52] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 19:33:52] [ WARN ] [TurnoService:67] Iniciando el proceso de eliminación del turno con id = 1
+[2022-12-11 19:33:52] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 19:34:22] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido Sanchez
+[2022-12-11 19:34:22] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido Herrera
+[2022-12-11 19:34:22] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno con fecha 2022-11-29
+[2022-12-11 19:34:22] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 19:34:22] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 19:34:22] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 19:34:22] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 19:34:22] [ INFO ] [TurnoService:61] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-11 19:34:22] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 19:34:22] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 19:34:22] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 19:34:22] [ WARN ] [TurnoService:67] Iniciando el proceso de eliminación del turno con id = 1
+[2022-12-11 19:34:22] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 19:34:37] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido Sanchez
+[2022-12-11 19:34:37] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido Herrera
+[2022-12-11 19:34:37] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno con fecha 2022-11-29
+[2022-12-11 19:34:37] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 19:34:37] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 19:34:37] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 19:34:37] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 19:34:38] [ INFO ] [TurnoService:61] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-11 19:34:38] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 19:34:38] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 19:34:38] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 19:34:38] [ WARN ] [TurnoService:67] Iniciando el proceso de eliminación del turno con id = 1
+[2022-12-11 19:34:38] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 19:35:15] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido as
+[2022-12-11 19:35:17] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 19:35:18] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 19:35:21] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 19:35:21] [ INFO ] [OdontologoService:39] Iniciando el proceso de actualización del odontologo con id = 1
+[2022-12-11 19:35:21] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 19:35:22] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 19:35:22] [ WARN ] [OdontologoService:44] Iniciando el proceso de eliminación del odontologo con id = 1
+[2022-12-11 19:35:41] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido as
+[2022-12-11 19:35:53] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido as
+[2022-12-11 19:35:54] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 19:36:01] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 19:36:01] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 19:36:04] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 19:36:13] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 19:36:14] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 19:36:17] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 19:36:23] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 19:36:23] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-11 19:36:23] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno con fecha 2018-10-28
+[2022-12-11 19:36:23] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 19:36:23] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-11 19:36:25] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 20:12:23] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido Apellido
+[2022-12-11 20:12:23] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 20:12:23] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 20:12:23] [ INFO ] [PacienteService:39] Iniciando el proceso de actualización del paciente con id = 1
+[2022-12-11 20:12:23] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 20:12:23] [ WARN ] [PacienteService:45] Se realizó el proceso de eliminación del paciente con id = 1
+[2022-12-11 20:12:23] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 20:12:23] [ INFO ] [PacienteService:49] Iniciando el proceso de busqueda del paciente con email = email@gmail.com
+[2022-12-11 20:13:16] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido Apellido
+[2022-12-11 20:13:16] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 20:13:16] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 20:13:16] [ INFO ] [PacienteService:39] Iniciando el proceso de actualización del paciente con id = 1
+[2022-12-11 20:13:16] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 20:13:16] [ WARN ] [PacienteService:45] Se realizó el proceso de eliminación del paciente con id = 1
+[2022-12-11 20:13:16] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 20:13:16] [ INFO ] [PacienteService:49] Iniciando el proceso de busqueda del paciente con email = email@gmail.com
+[2022-12-11 20:14:12] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido Apellido
+[2022-12-11 20:14:12] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 20:14:12] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-11 20:14:12] [ INFO ] [PacienteService:39] Iniciando el proceso de actualización del paciente con id = 1
+[2022-12-11 20:14:12] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 20:14:12] [ INFO ] [PacienteService:49] Iniciando el proceso de busqueda del paciente con email = email@gmail.com
+[2022-12-11 20:14:12] [ WARN ] [PacienteService:45] Se realizó el proceso de eliminación del paciente con id = 1
+[2022-12-11 20:14:12] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 20:14:28] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido Apellido
+[2022-12-11 20:14:28] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 20:14:28] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-11 20:14:28] [ INFO ] [OdontologoService:39] Iniciando el proceso de actualización del odontologo con id = 1
+[2022-12-11 20:14:28] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 20:14:28] [ WARN ] [OdontologoService:45] Se realizó el proceso de eliminación del odontologo con id = 1
+[2022-12-11 20:14:28] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 20:14:42] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido Sanchez
+[2022-12-11 20:14:42] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido Herrera
+[2022-12-11 20:14:42] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno con fecha 2022-11-29
+[2022-12-11 20:14:42] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 20:14:42] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 20:14:42] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 20:14:42] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-11 20:14:42] [ INFO ] [TurnoService:61] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-11 20:14:42] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-11 20:14:42] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-11 20:14:42] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-11 20:14:42] [ WARN ] [TurnoService:68] Se realizó el proceso de eliminación del turno con id = 1
+[2022-12-11 20:14:42] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-12 07:05:56] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido Sanchez
+[2022-12-12 07:05:56] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido Herrera
+[2022-12-12 07:05:56] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno con fecha 2022-11-29
+[2022-12-12 07:05:56] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 07:05:56] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-12 07:05:56] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-12 07:05:56] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:05:56] [ INFO ] [TurnoService:61] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-12 07:05:56] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 07:05:56] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-12 07:05:56] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-12 07:05:56] [ WARN ] [TurnoService:68] Se realizó el proceso de eliminación del turno con id = 1
+[2022-12-12 07:05:56] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-12 07:06:48] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido asda
+[2022-12-12 07:06:49] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:06:52] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-12 07:06:55] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-12 07:06:55] [ INFO ] [OdontologoService:39] Iniciando el proceso de actualización del odontologo con id = 1
+[2022-12-12 07:06:55] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:06:56] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-12 07:06:56] [ WARN ] [OdontologoService:45] Se realizó el proceso de eliminación del odontologo con id = 1
+[2022-12-12 07:07:09] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido dasda
+[2022-12-12 07:07:10] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:07:11] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 07:07:23] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 07:07:23] [ INFO ] [PacienteService:39] Iniciando el proceso de actualización del paciente con id = 1
+[2022-12-12 07:07:23] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:07:29] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 07:07:29] [ WARN ] [PacienteService:45] Se realizó el proceso de eliminación del paciente con id = 1
+[2022-12-12 07:07:33] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:07:35] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:07:37] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:07:42] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido asda
+[2022-12-12 07:07:43] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:07:56] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido adsa
+[2022-12-12 07:07:57] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:08:08] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-12 07:08:08] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-12 07:08:08] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno con fecha 2023-12-31
+[2022-12-12 07:08:08] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-12 07:08:08] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-12 07:08:09] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:09:01] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:09:05] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:09:06] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-12 07:09:09] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:09:10] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:09:13] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:09:14] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-12 07:09:14] [ WARN ] [TurnoService:68] Se realizó el proceso de eliminación del turno con id = 1
+[2022-12-12 07:09:15] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:09:16] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:09:17] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:09:17] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-12 07:09:17] [ WARN ] [PacienteService:45] Se realizó el proceso de eliminación del paciente con id = 2
+[2022-12-12 07:09:19] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:09:20] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:09:21] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:09:21] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-12 07:09:21] [ WARN ] [OdontologoService:45] Se realizó el proceso de eliminación del odontologo con id = 2
+[2022-12-12 07:09:23] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:09:24] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:13:53] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:13:55] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:13:57] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:16:46] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:16:51] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:18:59] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:19:01] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:19:02] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:19:04] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:19:07] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:19:51] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:19:52] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:19:53] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:29:48] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:29:52] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:31:04] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:31:05] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:31:09] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:32:00] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:32:37] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:32:51] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:42:51] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:42:55] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:42:58] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:43:05] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:43:07] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:43:09] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:43:14] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:43:15] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:43:20] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:43:21] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:44:54] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:44:57] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:45:00] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:45:05] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:45:08] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:45:21] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:45:27] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:46:30] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:46:56] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:47:33] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:47:37] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:47:40] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:47:46] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido fdsf
+[2022-12-12 07:47:48] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:47:51] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido fsdfs
+[2022-12-12 07:47:53] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido fsdf
+[2022-12-12 07:47:54] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:47:59] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido ffsd
+[2022-12-12 07:48:01] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:48:09] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:48:10] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:48:57] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:49:13] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:49:17] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:49:19] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:49:22] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:49:24] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:52:25] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:52:41] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 07:52:45] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:52:50] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 07:52:53] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 07:52:54] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:04:08] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:04:17] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:04:21] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 08:04:30] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido fsd
+[2022-12-12 08:04:32] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido fsd
+[2022-12-12 08:04:33] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:04:48] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido gfdgd
+[2022-12-12 08:04:49] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:05:05] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 08:05:05] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-12 08:05:05] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno con fecha 2020-10-30
+[2022-12-12 08:05:05] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 08:05:05] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-12 08:05:07] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 08:05:11] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-12 08:05:11] [ WARN ] [TurnoService:68] Se realizó el proceso de eliminación del turno con id = 1
+[2022-12-12 08:05:12] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:05:13] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 08:05:13] [ WARN ] [PacienteService:45] Se realizó el proceso de eliminación del paciente con id = 1
+[2022-12-12 08:05:14] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:05:15] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-12 08:05:15] [ WARN ] [OdontologoService:45] Se realizó el proceso de eliminación del odontologo con id = 2
+[2022-12-12 08:05:15] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-12 08:05:15] [ WARN ] [OdontologoService:45] Se realizó el proceso de eliminación del odontologo con id = 1
+[2022-12-12 08:05:19] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:05:22] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:05:26] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 08:06:23] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:07:32] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:07:36] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:07:42] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 08:07:52] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:07:55] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:07:57] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 08:08:11] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:08:17] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:08:40] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:12:14] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:12:50] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:14:50] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:15:05] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:15:28] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:15:39] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:17:42] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 08:17:44] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:17:46] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:17:54] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:17:57] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:18:01] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 08:18:07] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:18:08] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:18:35] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:18:47] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:18:50] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:18:54] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 08:18:57] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:23:20] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido sad
+[2022-12-12 08:23:21] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:23:22] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-12 08:23:24] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-12 08:23:24] [ INFO ] [OdontologoService:39] Iniciando el proceso de actualización del odontologo con id = 1
+[2022-12-12 08:23:24] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:23:25] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-12 08:23:25] [ WARN ] [OdontologoService:45] Se realizó el proceso de eliminación del odontologo con id = 1
+[2022-12-12 08:23:28] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:23:37] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido dasda
+[2022-12-12 08:23:38] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:23:39] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 08:23:48] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 08:23:48] [ INFO ] [PacienteService:39] Iniciando el proceso de actualización del paciente con id = 1
+[2022-12-12 08:23:49] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:23:54] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 08:23:54] [ WARN ] [PacienteService:45] Se realizó el proceso de eliminación del paciente con id = 1
+[2022-12-12 08:23:56] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:24:02] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido dasd
+[2022-12-12 08:24:12] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:24:23] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido fsdfs
+[2022-12-12 08:24:25] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:24:28] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:24:36] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-12 08:24:36] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-12 08:24:36] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno con fecha 2021-11-28
+[2022-12-12 08:24:36] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-12 08:24:36] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-12 08:24:37] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 08:24:38] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-12 08:24:43] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-12 08:24:43] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-12 08:24:43] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-12 08:24:43] [ INFO ] [TurnoService:61] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-12 08:24:43] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-12 08:24:43] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-12 08:24:43] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 08:24:45] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-12 08:24:45] [ WARN ] [TurnoService:68] Se realizó el proceso de eliminación del turno con id = 1
+[2022-12-12 08:24:45] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 08:24:47] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:24:47] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-12 08:24:47] [ WARN ] [PacienteService:45] Se realizó el proceso de eliminación del paciente con id = 2
+[2022-12-12 08:24:49] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:24:50] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:24:51] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-12 08:24:51] [ WARN ] [OdontologoService:45] Se realizó el proceso de eliminación del odontologo con id = 2
+[2022-12-12 08:24:52] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:24:57] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 08:25:04] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 08:25:07] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 11:20:18] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido sfds
+[2022-12-12 11:20:19] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 11:20:21] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-12 11:20:25] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-12 11:20:25] [ INFO ] [OdontologoService:39] Iniciando el proceso de actualización del odontologo con id = 1
+[2022-12-12 11:20:25] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 11:20:27] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-12 11:20:27] [ WARN ] [OdontologoService:45] Se realizó el proceso de eliminación del odontologo con id = 1
+[2022-12-12 11:20:37] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido fsdds
+[2022-12-12 11:20:39] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 11:20:40] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 11:20:52] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 11:20:52] [ INFO ] [PacienteService:39] Iniciando el proceso de actualización del paciente con id = 1
+[2022-12-12 11:20:52] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 11:20:58] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 11:20:58] [ WARN ] [PacienteService:45] Se realizó el proceso de eliminación del paciente con id = 1
+[2022-12-12 11:21:02] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido cxzc
+[2022-12-12 11:21:04] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 11:21:16] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido czxc
+[2022-12-12 11:21:19] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 11:21:26] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-12 11:21:26] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-12 11:21:26] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno con fecha 2019-09-29
+[2022-12-12 11:21:26] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-12 11:21:26] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-12 11:21:28] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 11:21:31] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-12 11:21:36] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-12 11:21:36] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-12 11:21:36] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-12 11:21:36] [ INFO ] [TurnoService:61] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-12 11:21:36] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-12 11:21:36] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-12 11:21:36] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 11:21:38] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-12 11:21:41] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-12 11:21:41] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-12 11:21:41] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-12 11:21:41] [ INFO ] [TurnoService:61] Iniciando el proceso de actualización del turno con id = 1
+[2022-12-12 11:21:41] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-12 11:21:41] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-12 11:21:41] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 11:21:44] [ INFO ] [TurnoService:40] Iniciando el proceso de busqueda del turno con id = 1
+[2022-12-12 11:21:44] [ WARN ] [TurnoService:68] Se realizó el proceso de eliminación del turno con id = 1
+[2022-12-12 11:21:45] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 11:21:45] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 2
+[2022-12-12 11:21:45] [ WARN ] [PacienteService:45] Se realizó el proceso de eliminación del paciente con id = 2
+[2022-12-12 11:21:46] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 11:21:47] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 11:21:48] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 11:21:49] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 2
+[2022-12-12 11:21:49] [ WARN ] [OdontologoService:45] Se realizó el proceso de eliminación del odontologo con id = 2
+[2022-12-12 11:21:50] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 11:21:57] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 11:21:59] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 11:22:03] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 15:34:36] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido fsdfs
+[2022-12-12 15:34:45] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido fsdfs
+[2022-12-12 15:34:49] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 15:34:50] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 15:34:52] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 15:36:38] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 15:36:40] [ INFO ] [PacienteService:34] Iniciando el proceso de busqueda de todos los pacientes
+[2022-12-12 15:36:41] [ INFO ] [TurnoService:51] Iniciando el proceso de busqueda de todos los turnos
+[2022-12-12 15:36:44] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 15:37:53] [ INFO ] [OdontologoService:34] Iniciando el proceso de busqueda de todos los odontologos
+[2022-12-12 15:37:57] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido dsad
+[2022-12-12 15:38:06] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido das
+[2022-12-12 15:38:54] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 15:38:54] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-12 15:38:54] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno con fecha 2020-10-28
+[2022-12-12 15:38:54] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 15:38:54] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-12 17:05:23] [ INFO ] [OdontologoService:23] Iniciando el proceso de guardar un odontologo con apellido dad
+[2022-12-12 17:05:32] [ INFO ] [PacienteService:24] Iniciando el proceso de guardar un paciente con apellido dad
+[2022-12-12 17:05:56] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 17:05:56] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
+[2022-12-12 17:05:56] [ INFO ] [TurnoService:33] Iniciando el proceso de guardar un turno con fecha 2019-11-28
+[2022-12-12 17:05:56] [ INFO ] [PacienteService:29] Iniciando el proceso de busqueda del paciente con id = 1
+[2022-12-12 17:05:56] [ INFO ] [OdontologoService:29] Iniciando el proceso de busqueda del odontologo con id = 1
